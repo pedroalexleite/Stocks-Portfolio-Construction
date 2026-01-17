@@ -115,6 +115,7 @@ Wikipedia S&P 500 → Tickers → yfinance API → Market Data
 ```
 stock-portfolio-construction/
 │
+├── Code/                      # Code files
 ├── fundamental.ipynb          # Collects & calculates fundamental metrics
 ├── technical.ipynb            # Collects & calculates technical indicators
 ├── sentimental.ipynb          # Scrapes & analyzes Reddit sentiment
