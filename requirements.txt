@@ -1,0 +1,10 @@
+pandas>=2.0.0
+yfinance>=0.2.25
+TA-Lib>=0.4.24
+numpy>=1.24.0
+requests>=2.31.0
+praw>=7.8.0
+emoji>=2.2.0
+nltk>=3.8.0
+textblob>=0.17.1
+matplotlib>=3.7.0
