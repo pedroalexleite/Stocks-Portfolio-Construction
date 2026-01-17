@@ -1,0 +1,39 @@
+Symbol,Company,Type,Sector,Sub-Sector,Rating,Price,Shares,Investment
+AMAT,Applied Materials,Growth,Information Technology,Semiconductor Materials & Equipment,100,181,1,181
+FSLR,First Solar,Growth,Information Technology,Semiconductors,98,194,1,194
+TEL,TE Connectivity,Growth,Information Technology,Electronic Manufacturing Services,96,184,1,184
+DELL,Dell Technologies,Growth,Information Technology,"Technology Hardware, Storage & Peripherals",94,129,1,129
+AAPL,Apple Inc.,Growth,Information Technology,"Technology Hardware, Storage & Peripherals",92,211,1,211
+QCOM,Qualcomm,Growth,Information Technology,Semiconductors,86,132,1,132
+CCL,Carnival,Growth,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",96,24,1,24
+LOW,Lowe's,Growth,Consumer Discretionary,Home Improvement Retail,94,200,1,200
+PHM,PulteGroup,Growth,Consumer Discretionary,Homebuilding,94,103,1,103
+ROST,Ross Stores,Growth,Consumer Discretionary,Apparel Retail,93,127,1,127
+GOOGL,Alphabet Inc. (Class A),Growth,Communication Services,Interactive Media & Services,99,203,1,203
+GOOG,Alphabet Inc. (Class C),Growth,Communication Services,Interactive Media & Services,98,204,1,204
+FOXA,Fox Corporation (Class A),Growth,Communication Services,Broadcasting,91,49,1,49
+META,Meta Platforms,Growth,Communication Services,Interactive Media & Services,91,606,1,606
+HCA,HCA Healthcare,Defensive,Health Care,Health Care Facilities,100,357,1,357
+JNJ,Johnson & Johnson,Defensive,Health Care,Pharmaceuticals,97,164,1,164
+BIIB,Biogen,Defensive,Health Care,Biotechnology,93,126,1,126
+MO,Altria,Defensive,Consumer Staples,Tobacco,99,57,1,57
+WMT,Walmart,Defensive,Consumer Staples,Consumer Staples Merchandise Retail,87,88,1,88
+PM,Philip Morris International,Defensive,Consumer Staples,Tobacco,85,138,1,138
+MNST,Monster Beverage,Defensive,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,81,60,1,60
+DG,Dollar General,Defensive,Consumer Staples,Consumer Staples Merchandise Retail,79,85,1,85
+TAP,Molson Coors Beverage Company,Defensive,Consumer Staples,Brewers,77,40,1,40
+CLX,Clorox,Defensive,Consumer Staples,Household Products,73,103,1,103
+CEG,Constellation Energy,Defensive,Utilities,Electric Utilities,70,317,1,317
+BK,BNY Mellon,Cyclical,Financials,Asset Management & Custody Banks,99,90,1,90
+EG,Everest Group,Cyclical,Financials,Reinsurance,99,298,1,298
+TXT,Textron,Cyclical,Industrials,Aerospace & Defense,96,70,1,70
+DAL,Delta Air Lines,Cyclical,Industrials,Passenger Airlines,94,49,1,49
+MAS,Masco,Cyclical,Industrials,Building Products,91,56,1,56
+CSX,CSX Corporation,Cyclical,Industrials,Rail Transportation,74,31,1,31
+NEM,Newmont,Cyclical,Materials,Gold,100,73,1,73
+CF,CF Industries,Cyclical,Materials,Fertilizers & Agricultural Chemicals,96,75,1,75
+MOS,Mosaic Company (The),Cyclical,Materials,Fertilizers & Agricultural Chemicals,87,26,1,26
+FCX,Freeport-McMoRan,Cyclical,Materials,Copper,72,35,1,35
+MPC,Marathon Petroleum,Cyclical,Energy,Oil & Gas Refining & Marketing,100,156,1,156
+APA,APA Corporation,Cyclical,Energy,Oil & Gas Exploration & Production,98,19,1,19
+CTRA,Coterra,Cyclical,Energy,Oil & Gas Exploration & Production,81,20,1,20
