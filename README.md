@@ -1,4 +1,4 @@
-# Stock Portfolio Construction Framework
+# Stock Portfolio Construction
 
 A systematic, data-driven approach to building diversified investment portfolios using fundamental, technical, and sentiment analysis of S&P 500 stocks.
 
